@@ -1,0 +1,8 @@
+tacotron2
+tacotron2_statedict.pt
+logs
+wavs
+colab
+hifi-gan
+.ipynb_checkpoints
+__pycache__
